@@ -1,0 +1,8 @@
+Age,Gender,ChestPainType,RestingBP,Cholesterol,FastingBloodSugar,RestingECG,MaxHR,ExerciseAngina,Oldpeak,Slope,Ca,Thal,HeartDisease
+55,Male,Typical,140,220,1,Normal,150,No,1.5,Up,0,Fixed,1
+60,Female,Atypical,130,230,0,Abnormal,160,Yes,2.3,Flat,1,Reversible,0
+45,Male,Non-anginal,125,180,1,Normal,185,No,0,Up,0,Normal,1
+50,Female,Typical,130,150,1,Abnormal,155,Yes,1.8,Down,2,Fixed,1
+65,Male,Asymptomatic,150,175,0,Normal,130,Yes,1,Flat,1,Normal,0
+70,Female,Typical,160,190,1,Abnormal,145,No,2.3,Up,3,Reversible,1
+52,Male,Atypical,125,200,0,Normal,138,Yes,3,Down,1,Fixed,0
